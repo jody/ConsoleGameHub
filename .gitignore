@@ -2,13 +2,13 @@
 history.dat
 reports/
 doc/
+build/
 
 # Java Section
 *.class
 *.log
 *.ctxt
 .mtj.tmp/
-*.jar
 *.war
 *.nar
 *.ear
